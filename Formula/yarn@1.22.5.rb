@@ -1,4 +1,4 @@
-class Yarn < Formula
+class YarnAT1225 < Formula
   desc "JavaScript package manager"
   homepage "https://yarnpkg.com/"
   # Should only be updated if the new version is listed as a stable release on the homepage
